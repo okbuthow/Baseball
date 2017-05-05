@@ -77,6 +77,19 @@
  * 
  * /
  
+ /* Description: A customer wants to know how much of each souveniers are purchased
+ * by baseball fans during the trip, and the cost of those souvenirs.
+ * Tasks: 
+ * Write an algorithm to input data of souvenir each time there is a purchase.
+ * Write an algorithm that calculates the cost of each souvenir.
+ * Write an algorithm that provides the capability to track souvenirs.  
+ * Test Scenarios: 
+ * See if algorithm to input data of souvenir inputs the data correctly.
+ * Test if the algorithm calculating cost of souvenir outputs correct cost.
+ * Test if the algorithm to track souvenirs have correct number and cost calculated.
+ * Story Points: 3  
+ * 
+ * / 
  
  
  /* #6
