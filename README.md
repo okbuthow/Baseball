@@ -94,3 +94,19 @@
  * Story Points: 5
  * 
  * /
+ 
+ /* #8
+ * Title:
+ * As a <User & Admin> i would like to be able to access the <stadium information>.
+ * 
+ * You should be able to randomly access any baseball stadium. 
+ * 
+ * Task:
+ * - Implement algorithm for to print out all information regarding the stadium selected.  
+ * 
+ * Test Scenarios:
+ * 
+ * 
+ * Story Points: 5
+ * 
+ * /
