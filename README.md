@@ -1,7 +1,8 @@
 
-/*Story 
+/*Story*/ 
 
-/* Description: A customer wants the shortest path to all the stadium in California.
+/* #1
+ * Description: A customer wants the shortest path to all the stadium in California.
  * They want to know the number of stadiums and distance they will travel.
  * Tasks: Implement algorithm to find order of stadiums with the least amount of distance travelled.
  *        Implement algorith to record the distance travelled for the
@@ -38,7 +39,8 @@
  * 
  * /
  
- /* Description: A customer wants the shortest trip to all the stadiums starting
+ /* #3 
+ * Description: A customer wants the shortest trip to all the stadiums starting
  * from the stadium in California as well as the distance it requires.
  * 
  * Tasks: 
@@ -77,7 +79,8 @@
  * 
  * /
  
- /* Description: A customer wants to know how much of each souveniers are purchased
+ /* #5 
+ * Description: A customer wants to know how much of each souveniers are purchased
  * by baseball fans during the trip, and the cost of those souvenirs.
  * Tasks: 
  * Write an algorithm to input data of souvenir each time there is a purchase.
@@ -108,7 +111,8 @@
  * 
  * /
  
- /* Description: An administrator needs to add in a new team to the system. 
+ /* #7 
+ * Description: An administrator needs to add in a new team to the system. 
  * Tasks:  Create an algorithm that creates the details of a new team into the system.
  *         Have the System set up so that it can easily input similar data to that of
  *          the older team.
@@ -137,7 +141,8 @@
  * 
  * /
  
- /* Description: A customer wants to know the distance between two stadiums.
+ /* #9
+  * Description: A customer wants to know the distance between two stadiums.
  
      * Tasks: Write an algorithm that prints out the distance between two stadiums.
      *
