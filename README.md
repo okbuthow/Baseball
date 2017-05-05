@@ -110,3 +110,20 @@
  * Story Points: 5
  * 
  * /
+ 
+ 
+/* #10
+ * Title:
+ * As a <User & Admin> i would like to be able to get the <distance> between any two <stadium>.
+ * 
+ * You should be able to print out the distances between any two stadiums.
+ * 
+ * Task:
+ * - Implement algorithm to determine the shortest path.
+ * 
+ * Test Scenarios:
+ * 
+ * 
+ * Story Points: 5
+ * 
+ * /
