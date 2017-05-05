@@ -77,3 +77,20 @@
  * 
  * /
  
+ 
+ 
+ /* #6
+ * Title:
+ * As an <Admin> i would like to be able to modify the <stadium information>.
+ * 
+ * Provide the ability to modify stadium information if a team moves into a new stadium.
+ * 
+ * Task:
+ * - Implement algorithm for user to modify information on file. 
+ * 
+ * Test Scenarios:
+ * 
+ * 
+ * Story Points: 5
+ * 
+ * /
