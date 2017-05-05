@@ -108,6 +108,19 @@
  * 
  * /
  
+ /* Description: An administrator needs to add in a new team to the system. 
+ * Tasks:  Create an algorithm that creates the details of a new team into the system.
+ *         Have the System set up so that it can easily input similar data to that of
+ *          the older team.
+ * Test Scenarios: 
+ *          Test whether the algorithm is able to input all needed data for new team into
+ *          the system.
+ *          See if data of older team can be copied over so as to save the data needed from
+ *          before.
+ * Story Points: 5 
+ * 
+ * / 
+ 
  /* #8
  * Title:
  * As a <User & Admin> i would like to be able to access the <stadium information>.
