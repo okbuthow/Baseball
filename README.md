@@ -16,3 +16,24 @@
  * Story Points: 3
  * 
  * / 
+ 
+ /* #2
+ * Title:
+ *  As a <user> i would like to be able to get a planned trip for all 
+ *  American League stadiums with <the shortest path>
+ * 
+ * Description: 
+ * Design a trip to all the American League stadiums with the shortest path 
+ * starting at a stadium in California. Print the number of stadiums visited and the total distance traveled.
+ * 
+ * Task:
+ * - Implement algorithm to determine the shortest path.
+ * - Print out the number of stadiums visited.
+ * - Print the total distance travelled.
+ * 
+ * Test Scenarios:
+ * 
+ * 
+ * Story Points: 5
+ * 
+ * /
