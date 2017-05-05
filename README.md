@@ -13,7 +13,7 @@
  *        See if algorithm provides distance travelled of shortest path.
  *        See if algorithm prints order of stadiums and distance travelled for shortest path.
  * 
- * Story Points: 3
+ * Story Points: 4
  * 
  * / 
  
@@ -37,3 +37,24 @@
  * Story Points: 5
  * 
  * /
+ 
+ /* Description: A customer wants the shortest trip to all the stadiums starting
+ * from the stadium in California as well as the distance it requires.
+ * 
+ * Tasks: 
+ * Create an algorithm that provides the route to all stadiums from the one with 
+ * California that has the least distance.
+ * Create an algorithm that calculates the distance of the least-distance route 
+ * from the stadium in California to all the rest.
+ * 
+ * Test Scenarios: 
+ * Test if the distance of the least-distance route provided by algorithm is really
+ * the least.
+ * Test if the distance of the least-distance route provided by algorithm is calculated
+ * correctly and is printed.
+ * See if the least-distance route provided by algorithm is printed.
+ * 
+ * Story Points: 4
+ * 
+ * / 
+ 
