@@ -58,3 +58,22 @@
  * 
  * / 
  
+ 
+/* #4
+ * Title:
+ * As a <user> i would like to be able to plan my own <dream vacation>.
+ * 
+ * Provide the capability for a baseball fan to plan his/her dream vacation.
+ * 
+ * Task:
+ * - Implement algorithm for user to set their own trip.
+ * - Print out the number of stadiums visited.
+ * - Print the total distance travelled.
+ * 
+ * Test Scenarios:
+ * 
+ * 
+ * Story Points: 5
+ * 
+ * /
+ 
