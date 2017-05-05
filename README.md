@@ -137,6 +137,16 @@
  * 
  * /
  
+ /* Description: A customer wants to know the distance between two stadiums.
+ 
+     * Tasks: Write an algorithm that prints out the distance between two stadiums.
+     *
+     * Test Scenarios: 
+     * Test to see if the correct distance between any two stadiums are returned.
+     *
+     * Story Point: 1
+* / 
+ 
  
 /* #10
  * Title:
